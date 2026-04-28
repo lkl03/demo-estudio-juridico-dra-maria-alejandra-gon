@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-maria-alejandra-gon
-Demo web para Estudio Jurídico Dra Maria Alejandra Gonzalez — diseñada por eterlab.
+# Estudio Jurídico Dra Maria Alejandra Gonzalez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
